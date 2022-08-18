@@ -1,6 +1,5 @@
-### Hi there
-sou o Pablo
-
+Eae gente
+meu email-pablo.campeoto@escola.pr.gov.br
 <!--
 **Pabllins/Pabllins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
